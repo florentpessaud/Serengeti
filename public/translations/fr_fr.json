@@ -1,10 +1,10 @@
 {
   "navigation": {
-    "home": "Home",
-    "about": "About",
-    "classify": "Classify",
-    "profile": "Profile",
-    "discuss": "Discuss",
+    "home": "Accueil",
+    "about": "A propos",
+    "classify": "Classifier",
+    "profile": "Profil",
+    "discuss": "Discussion",
     "blog": "Blog"
   },
   "home": {
